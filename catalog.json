@@ -1,11 +1,12 @@
 {
   "title": "Course Templates",
-  "owners": { "Your-Library-Id": ["all"] },
+  "owners": { "Your-Library-Id": ["all"], "f": ["all"] },
   "editors": {},
   "viewers": { "public": ["all"] },
   "previewers": {},
   "copyright": {
-    "license": "MIT"
+    "license": "MIT",
+    "fork": true
   },
   "catalogInfo": {}
 }
