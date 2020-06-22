@@ -1,33 +1,9 @@
 {
     "title": "Course",
     "language": "en",
-    "status": "Approved",
     "type": "Course",
-    "terminal": true,
-    "overview": false,
-    "timetype": "Self-paced",
     "duration": "30-45",
-    "certificate": "",
-    "badgeid": "",
     "description": "A simple example course with four modules",
-    "job_search_keyword": 
-    [
-        "HTML"
-    ],
-    "objective": 
-    [
-        "Objective 1",
-        "Objective 2"
-    ],
-    "skills": 
-    [
-        "html" 
-    ],
     "imageURL": "html/en/_attachments/html-logo.png",
-    "gitorg": "skillscollection",
-    "gitrepo": "blockchain",
-    "gitbranch": "live",
-    "prereq": [],
-    "intro": "HTML",
     "color": "#eeb430"
 }
