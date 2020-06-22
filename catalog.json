@@ -1,6 +1,6 @@
 {
   "title": "Course Templates",
-  "owners": { "Your-Library-Id": ["all"], "f": ["all"] },
+  "owners": { "Your-Library-Id": ["all"] },
   "editors": {},
   "viewers": { "public": ["all"] },
   "previewers": {},
