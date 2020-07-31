@@ -3,7 +3,7 @@
   "owners": { "tOmZVxy": ["all"] },
   "editors": {},
   "viewers": { "public": ["all"] },
-  "previewers": {},
+  "previewers": { "tOmZVxy": ["all"]},
   "copyright": {
     "license": "MIT",
     "fork": true
